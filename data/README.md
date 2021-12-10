@@ -1,1 +1,0 @@
-Dataset downloaded from: http://moleculenet.ai/datasets-1
